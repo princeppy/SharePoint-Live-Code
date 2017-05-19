@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="00cd0d52-3132-49b2-b51f-192ed7a3291e" solutionId="00cd0d52-3132-49b2-b51f-192ed7a3291e" resetWebServer="false" sharePointProductVersion="15.0" name="SharePointLiveCode" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="9d7a0d92-d612-47c1-abf2-f5b862c36a76" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="ee89664f-0caa-4025-bd07-a0faec0d84df" />
+  </projectItems>
+</package>

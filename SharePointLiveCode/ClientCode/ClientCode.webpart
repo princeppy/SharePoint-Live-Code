@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SharePointLiveCode.ClientCode.ClientCode, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">ClientCode</property>
+        <property name="Description" type="string">Use this WebPart if you want to renderize and execute only client side code (Javascript)</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
